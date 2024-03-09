@@ -51,9 +51,12 @@ button{
     border-radius: 10%;
     cursor: pointer;
     font-weight: 600;
+
 }
 button:hover{
-    background-color: rgb(189, 47, 94);
+    background-color:orange;
+    box-shadow:10px 10px 50px orange;
+    border: 2px solid black
 }
 nav{
     /* background-color: darkgray; */
@@ -128,4 +131,34 @@ body{
     color: white;
     padding: 80px;
     text-align: center;
+}
+
+.welcome{
+    font-size: 5rem;
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+.welcome span{
+    color:orange;
+    font-weight: 600;
+    font-style: italic;   
+}
+.book-btn{
+    width: 300px;
+    height: 180px;
+    /* margin: 20px 42vw; */
+}
+.book-btn a{
+    text-decoration: none;
+}
+.book-btn:hover{
+    box-shadow:10px 10px 50px orange;
+    border: 5px solid black;
+}
+
+#delivery-photo{
+border-radius: 5%;
+position: relative;
+left: 170px;
 }
