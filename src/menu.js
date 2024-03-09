@@ -34,6 +34,9 @@ function MenuContentPage(){
       <p>A delightful sweet and savory treat, our Nutella and Cheese Pockets are made with golden brown puff pastry filled with a creamy blend of mozzarella cheese and rich Nutella spread.  This is a tempting appetizer or a decadent dessert.</p>
           </div>      
     </div>
+    <div id="footer-menu">
+    For Complete Menu : <a href="https://www.facebook.com/photo.php?fbid=706308271521645&set=pb.100064274342562.-2207520000&type=3">Here </a>
+    </div>
     `
     return element;
 }
