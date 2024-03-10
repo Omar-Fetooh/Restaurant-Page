@@ -4,12 +4,12 @@ import MenuContentPage from './menu';
 import homeContentPage from './home';
 import contactContentPage from './contact';
 
-import img1 from './photos/Nutella.jpg'
-import img2 from './photos/chickenBBQ.jpg'
-import img3 from './photos/kremaAndMksrat.jpg'
-import img4 from './photos/rockets.jpg'
-import img5 from './photos/Untitled design.png'
-import img6 from './photos/delivery.jpg'
+import img1 from './images/Nutella.jpg'
+import img2 from './images/chickenBBQ.jpg'
+import img3 from './images/kremaAndMksrat.jpg'
+import img4 from './images/rockets.jpg'
+import img5 from './images/Untitled design.png'
+import img6 from './images/delivery.jpg'
 
 
 const container=document.querySelector('#content');

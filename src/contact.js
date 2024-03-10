@@ -1,4 +1,4 @@
-import img5 from './photos/Untitled design.png'
+import img5 from './images/Untitled design.png'
 function contactContentPage(){
     const element=document.createElement('div');
     console.log("Hello from contact page");
@@ -26,7 +26,7 @@ function contactContentPage(){
 </div>
 </div>
 <h2 class="location">Our Location</h2>
-<div><img src="../src/photos/Untitled design.png" alt=""></div>
+<div><img src="./images/Untitled design.png" alt=""></div>
     `
 
     return element;
