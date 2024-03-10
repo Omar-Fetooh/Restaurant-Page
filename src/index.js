@@ -12,7 +12,9 @@ const navButtons=document.querySelectorAll('nav button');
 // });
 
 // container.appendChild(MenuContentPage());
-container.appendChild(homeContentPage())
+container.appendChild(homeContentPage());
+navButtons[0].classList.add('active');
+
 // container.appendChild(contactContentPage());
 
 for(let i=0;i<navButtons.length;i++){

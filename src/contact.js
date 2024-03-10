@@ -25,7 +25,7 @@ function contactContentPage(){
 </div>
 </div>
 <h2 class="location">Our Location</h2>
-<div><img src="/home/omarfetooh/restaurant-page/src/photos/Untitled design.png" alt=""></div>
+<div><img src="src/photos/Untitled design.png" alt=""></div>
 
 
     `
