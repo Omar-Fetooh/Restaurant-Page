@@ -1,3 +1,4 @@
+import img5 from './photos/Untitled design.png'
 function contactContentPage(){
     const element=document.createElement('div');
     console.log("Hello from contact page");

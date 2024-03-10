@@ -1,3 +1,7 @@
+import img1 from './photos/Nutella.jpg'
+import img2 from './photos/chickenBBQ.jpg'
+import img3 from './photos/kremaAndMksrat.jpg'
+import img4 from './photos/rockets.jpg'
 function MenuContentPage(){
     console.log("hello from menu");
    const element= document.createElement("div");

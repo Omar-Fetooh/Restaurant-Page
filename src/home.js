@@ -1,3 +1,4 @@
+import img6 from './photos/delivery.jpg'
 function homeContentPage(){
     const element=document.createElement('div');
     element.innerHTML=`

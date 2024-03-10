@@ -9,7 +9,7 @@ import img2 from './photos/chickenBBQ.jpg'
 import img3 from './photos/kremaAndMksrat.jpg'
 import img4 from './photos/rockets.jpg'
 import img5 from './photos/Untitled design.png'
-import img6 from './photos/rockets.jpg'
+import img6 from './photos/delivery.jpg'
 
 
 const container=document.querySelector('#content');
