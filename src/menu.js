@@ -1,5 +1,3 @@
-
-
 function MenuContentPage(){
     console.log("hello from menu");
    const element= document.createElement("div");

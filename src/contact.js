@@ -26,8 +26,6 @@ function contactContentPage(){
 </div>
 <h2 class="location">Our Location</h2>
 <div><img src="../src/photos/Untitled design.png" alt=""></div>
-
-
     `
 
     return element;
