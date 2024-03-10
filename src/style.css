@@ -162,3 +162,55 @@ border-radius: 5%;
 position: relative;
 left: 170px;
 }
+
+#Contact{
+    font-size: 5rem;
+    color: white;
+    font-weight: 700;
+    margin: 70px 37vw;
+    color: orange;
+}
+
+ img{
+    width: 900px;
+    margin: 100px;
+
+}
+
+.footer-container{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: white;
+    display: flex;
+    gap: 1rem;
+    /* flex-wrap: wrap; */
+    padding: 20px;
+    margin: 10px;
+    justify-content: space-between;
+    margin: auto 500px;
+}
+.footer-container h2{
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+.footer-container span{
+    font-style: italic;
+
+}
+
+.footer-container a{
+    text-decoration: none;
+    color: blue;
+}
+
+.location{
+    font-size: 3rem;
+    color: orange;
+    font-weight: 700;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    width: 500px;
+}
+

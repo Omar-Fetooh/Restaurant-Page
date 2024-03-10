@@ -1,7 +1,8 @@
 console.log("ramdan kareem");
 import './style.css';
 import MenuContentPage from './menu';
-import homeContentPage from './home'
+import homeContentPage from './home';
+import contactContentPage from './contact';
 import oldPhoto from './photos/oldPhoto.jpg'
 import rockets from './photos/rockets.jpg'
 import kremaAndMksrat from '/src/photos/kremaAndMksrat.jpg'
@@ -15,4 +16,5 @@ const navButtons=document.querySelectorAll('nav button');
 // });
 
 // container.appendChild(MenuContentPage());
-container.appendChild(homeContentPage())
+// container.appendChild(homeContentPage())
+container.appendChild(contactContentPage());
