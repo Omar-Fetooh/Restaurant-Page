@@ -160,7 +160,7 @@ body{
 #delivery-photo{
 border-radius: 5%;
 position: relative;
-left: 170px;
+left: 50px;
 }
 
 #Contact{
@@ -212,5 +212,9 @@ left: 170px;
     left: 100px;
     top: 50px;
     width: 500px;
+}
+
+button.active{
+    background-color: orange;
 }
 
