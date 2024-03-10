@@ -4,6 +4,14 @@ import MenuContentPage from './menu';
 import homeContentPage from './home';
 import contactContentPage from './contact';
 
+// import img1 from 'src/photos/Nutella.jpg'
+// import img2 from './photos/chickenBBQ.jpg'
+// import img3 from './photos/kremaAndMksrat.jpg'
+// import img4 from './photos/rockets.jpg'
+// import img5 from './photos/Untitled design.png'
+// import img6 from './photos/rockets.jpg'
+
+
 const container=document.querySelector('#content');
 const navButtons=document.querySelectorAll('nav button');
 
