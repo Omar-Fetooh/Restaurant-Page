@@ -7,7 +7,7 @@ function homeContentPage(){
 
     <button class="book-btn"> <a href="https://www.facebook.com/fettohWazeer">Order Now !</a></button>
 
-    <img src="../src/photos/delivery.jpg" alt="" id="delivery-photo">
+    <img src="./photos/delivery.jpg" alt="" id="delivery-photo">
     
     `
 
